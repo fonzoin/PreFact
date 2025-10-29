@@ -14,7 +14,7 @@ This is our implementation for the paper: PreFact: Knowledge Propagation Regulat
 
 ## Example to run the codes.
 
-1. Config `dataset` and `model_name' in `KGE.py`, then run it to get pretrained KGE embeddings. This is done by python package `pykeen`.
+1. Config `dataset` and `model_name` in `KGE.py`, then run it to get pretrained KGE embeddings. This is done by python package `pykeen`.
 
 2. Run the following command to train PreFact on Last-FM dateset with GPU 0:
 
